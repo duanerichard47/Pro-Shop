@@ -1,1 +1,1 @@
-# react-Django-store
+To Run type 'python manage.py runserver'
